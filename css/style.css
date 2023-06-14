@@ -330,8 +330,10 @@ body.opened .kura_tm_topbar{
 	padding: 20px 37px 20px 50px;
 }
 .kura_tm_topbar .logo img{
-	max-width: 70px;
-	max-height: 70px;
+	max-width: 178px;
+	max-height: 140px;
+	position: absolute;
+	top: -51px;
 }
 .kura_tm_topbar .menu{
 	display: flex;
