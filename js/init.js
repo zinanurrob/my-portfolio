@@ -4,7 +4,7 @@
  * This file is made for CURRENT TEMPLATE
 */
 
-
+alert("please do not use your phone as landscape. because this website is not supportive in landscape. kindly view it in portrait mode. - from the website owner (zinanur rob)")
 
 
 jQuery(document).ready(function(){
